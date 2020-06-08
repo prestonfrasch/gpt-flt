@@ -1,3 +1,8 @@
+This repository is for the adaptation of GPT-2 to Serbian to English Translation through exposure of the large pretrained model to Serbian language.
+
+
+Original Read Me below:
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # gpt-2
